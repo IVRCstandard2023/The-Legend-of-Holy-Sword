@@ -8,4 +8,4 @@ The Legend of Holy Sword: An immersive experience for concentration perception a
 The posters folder contains posters used in past contests.
 
 ## Papers
-(arXiv)[https://arxiv.org/abs/2408.16782]
+[arXiv](https://arxiv.org/abs/2408.16782)
